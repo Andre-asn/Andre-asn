@@ -13,7 +13,7 @@
 
 **A little about me:**
 
-- 💼 I'm currently a summer SWE internat Juno Health
+- 💼 I'm currently a summer SWE intern at Juno Health
 - 🌱 I'm currently learning Golang; 
 - 📚 I'm currently a graduate student at [Stevens Institute of Tech](https://www.stevens.edu);
 - 🤔 I'm looking for intern opportunities for Fall 2025 😭;
