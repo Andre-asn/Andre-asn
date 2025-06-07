@@ -13,10 +13,10 @@
 
 **A little about me:**
 
-- 👨🏽‍💻 I'm currently working on [Stroopy](https://github.com/Andre-asn/stroopy);
-- 🌱 I'm currently learning Typescript; 
+- 💼 I'm currently a summer SWE internat Juno Health
+- 🌱 I'm currently learning Golang; 
 - 📚 I'm currently a graduate student at [Stevens Institute of Tech](https://www.stevens.edu);
-- 🤔 I'm looking for Intern opportunities, Summer 2025 & Fall 2025 😭;
+- 🤔 I'm looking for intern opportunities for Fall 2025 😭;
 - 💬 Reach out, I'm always happy to chat!;
 
 **Languages and Tools:**
