@@ -46,7 +46,7 @@
   <a href="https://github.com/Andre-asn/stroopy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-asn&repo=stroopy" />
   </a>
-  <a href="https://github.com/Andre-asn/Portion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-asn&repo=portion" />
+  <a href="[https://github.com/Andre-asn/Portion](https://github.com/Andre-asn/portion-landing)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-asn&repo=portion-landing" />
   </a>
 </p>
