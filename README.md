@@ -22,7 +22,7 @@
 **Languages and Tools:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,go,docker,express,react,ubuntu,mysql,mongodb&perline=4" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,go,docker,express,react,postgres,mongodb,postman&perline=4" alt="My Skills" />
 </a>
 
 </td>
