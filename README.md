@@ -13,7 +13,8 @@
 - 💼 I'm a former summer SWE intern at Juno Health
 - 🌱 I'm currently learning Golang; 
 - 📚 I'm currently a graduate student at [Stevens Institute of Tech](https://www.stevens.edu);
-- 🤔 I'm looking for intern opportunities for Spring/Summer 2026 😭;
+- 🏠 Airbnb SWE Intern for Summer 26';
+- 🤔 Looking for Fall 26'/New Grad Opportunities
 - 💬 Reach out, I'm always happy to chat!;
 
 **Languages and Tools:**
