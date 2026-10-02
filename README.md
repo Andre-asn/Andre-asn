@@ -10,10 +10,10 @@
 
 **A little about me:**
 
-- 🏠 Current **Airbnb** SWE Intern for Summer 26';
+- 🏠 Previous **Airbnb** SWE Intern for Summer 26';
 - 🌱 I'm currently learning Golang; 
 - 📚 A graduate student at [Stevens Institute of Tech](https://www.stevens.edu);
-- 🤔 Looking for Fall 26'/New Grad Opportunities
+- 🤔 Looking for New Grad Opportunities (Jan 2027 Start)
 - 💬 Reach out, I'm always happy to chat!;
 
 **Languages and Tools:**
